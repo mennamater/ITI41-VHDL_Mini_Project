@@ -1,0 +1,16 @@
+At time  40 ns , input is :  0000,  output is : 0000, the expected output is :  0000
+At time  60 ns , input is :  0001,  output is : 0001, the expected output is :  0001
+At time  80 ns , input is :  0010,  output is : 0011, the expected output is :  0011
+At time  100 ns , input is :  0011,  output is : 0010, the expected output is :  0010
+At time  120 ns , input is :  0100,  output is : 0110, the expected output is :  0110
+At time  140 ns , input is :  0101,  output is : 0111, the expected output is :  0111
+At time  160 ns , input is :  0110,  output is : 0101, the expected output is :  0101
+At time  180 ns , input is :  0111,  output is : 0100, the expected output is :  0100
+At time  200 ns , input is :  1000,  output is : 1100, the expected output is :  1100
+At time  220 ns , input is :  1001,  output is : 1101, the expected output is :  1101
+At time  240 ns , input is :  1010,  output is : 1111, the expected output is :  1111
+At time  260 ns , input is :  1011,  output is : 1110, the expected output is :  1110
+At time  280 ns , input is :  1100,  output is : 1010, the expected output is :  1010
+At time  300 ns , input is :  1101,  output is : 1011, the expected output is :  1011
+At time  320 ns , input is :  1110,  output is : 1001, the expected output is :  1001
+At time  340 ns , input is :  1111,  output is : 1000, the expected output is :  1000

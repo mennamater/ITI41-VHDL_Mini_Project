@@ -1,0 +1,16 @@
+0000 20 ns 0000 succeed output
+0001 20 ns 0001 succeed output
+0010 20 ns 0011 succeed output
+0011 20 ns 0010 succeed output
+0100 20 ns 0110 succeed output
+0101 20 ns 0111 succeed output
+0110 20 ns 0101 succeed output
+0111 20 ns 0100 succeed output
+1000 20 ns 1100 succeed output
+1001 20 ns 1101 succeed output
+1010 20 ns 1111 succeed output
+1011 20 ns 1110 succeed output
+1100 20 ns 1010 succeed output
+1101 20 ns 1011 succeed output
+1110 20 ns 1001 succeed output
+1111 20 ns 1000 succeed output
